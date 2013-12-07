@@ -73,3 +73,5 @@ html,body{height:100%}
 .submitButton{background-color:#f8f8f8;border:1px solid #d0d0d0}
 .blurb{font-size:20px;font-weight:200}
 .landingSignIn.btn-primary{background-color:#00aced;background-image:none}
+.white-panel{border:1px solid #dadada;margin-bottom:40px}
+.row{padding-top:40px;padding-bottom:40px}
